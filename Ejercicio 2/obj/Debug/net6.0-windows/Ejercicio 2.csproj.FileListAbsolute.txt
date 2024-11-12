@@ -1,0 +1,33 @@
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.exe
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.deps.json
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.runtimeconfig.json
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.dll
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.pdb
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio_2.Ejercicio2.resources
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.AssemblyInfo.cs
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.dll
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\refint\Ejercicio 2.dll
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.pdb
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.genruntimeconfig.cache
+C:\Users\rpere\OneDrive\Desktop\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\ref\Ejercicio 2.dll
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.exe
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.deps.json
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.runtimeconfig.json
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.dll
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\bin\Debug\net6.0-windows\Ejercicio 2.pdb
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio_2.Ejercicio2.resources
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.AssemblyInfo.cs
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.dll
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\refint\Ejercicio 2.dll
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.pdb
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio 2.genruntimeconfig.cache
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\ref\Ejercicio 2.dll
+C:\Users\rpere\OneDrive\Imágenes\Clase Practica\Ejercicio 2\obj\Debug\net6.0-windows\Ejercicio_2.Properties.Resources.resources
